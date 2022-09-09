@@ -25,8 +25,8 @@ const fs = require("fs")
 const chalk = require("chalk")
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoReadAll = false // auto reading in all pchat gc and status (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
@@ -41,23 +41,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6285850539404'] //ur owner number
-global.ownername = "6285850539404"
+global.owner = ['6283854551575'] //ur owner number
+global.ownername = "A7 RAFLI"
 global.ytname = "YT:https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //ur yt chanel name
 global.socialm = "GitHub: Jarot" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "Indonesia, Jakarta" //ur location
 
 //bot bombdy
-global.botname = "𝐑𝐢𝐬𝐦𝐚-ᴍᴅ᭄" //ur bot name
+global.botname = "Hu Tao Bot-MD" //ur bot name
 global.websitex = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
-global.packname = "𝐑𝐢𝐬𝐦𝐚-ᴍᴅ᭄ Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "𝐑𝐢𝐬𝐦𝐚-ᴍᴅ᭄"
+global.packname = "Dibuat oleh"
+global.author = "Hu Tao Bo-MD TEAM"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['6285850539404'] //ur owner tag
-global.ownernummenu = ['6285850539404'] //ur owner number in menu and all
-global.watermark = "𝐑𝐢𝐬𝐦𝐚-ᴍᴅ᭄." //ur watermark
+global.ownertag = ['6283854551575'] //ur owner tag
+global.ownernummenu = ['6283854551575'] //ur owner number in menu and all
+global.watermark = "Hu Tao Bot-MD" //ur watermark
 global.botscript = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ"
 global.linkz1 = ""
 global.linkz2 = ""
